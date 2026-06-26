@@ -1,5 +1,5 @@
 {
-    "version": "vtest",
+    "version": "test",
     "download_url": "https://github.com/georgeribaim-dot/EclipseMacros/releases/download/test/dist_client.zip",
-    "changelog": "vtest\n• Ajout du Hub launcher\n• Corrections diverses"
+    "changelog": "test\n• Ajout du Hub launcher\n• Corrections diverses"
 }
